@@ -13,6 +13,7 @@ The ExLink_XH plugin is a very simple approach to external links optimisation fo
 Features
 
     Creating internally link with external link.
+    Base64 encoding/decoding.
     External link decoration with CSS.
     Confirmation pop-up, if external link is pressed.
     Adding attributes target="_blank" and rel="nofollow" for all external links.
