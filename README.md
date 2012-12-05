@@ -2,7 +2,8 @@ exlink
 ======
 
 ExlLink_XH plugin for CMSimple_XH
-Version 0.3 beta
+
+v. 0.3 beta
 
 http://do.comeze.com/
 
