@@ -5,11 +5,14 @@ ExlLink_XH plugin for CMSimple_XH
 
 http://www.do.comeze.com/?ExLink_XH_Plugin
 
-Version: 0.3 Copyright (c) 2012 Lubomyr Kudray
+Version: 1.0
 
-Optimise external links for SEO with ExLink_XH plugin.
+Copyright (c) 2012 Lubomyr Kudray
+
+Optimise external links for search ebgine (SEO) with ExLink_XH plugin.
 
 The ExLink_XH plugin is a very simple approach to external links optimisation for SEO, adding icons to links to external websites addresses and showing confirmation pop-up. It is a purely javascript/jQuery implementation, so the icons are only shown to users that have JavaScript enabled.
+
 Features
 
     Creating internally SEO secure  link with external link.
