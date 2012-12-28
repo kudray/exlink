@@ -19,5 +19,9 @@ Features
     Base64 encoding/decoding.
     External link decoration with CSS.
     Confirmation pop-up, if external link is pressed.
-    Adding attributes target="_blank" and rel="nofollow" for all external links.
+    Adding attribute rel="nofollow" for all external links.
+    Send invalid link notice to site admin when the validation dialog pop-up.
+    External link (with custom ID) redirect.
+    Link validation and link validation dialog.
+
 
